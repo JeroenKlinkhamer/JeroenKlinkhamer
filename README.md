@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello and welcome to my personal page
+
+I want to keep this conscise. My name is Jeroen Klinkhamer and I am from the Netherlands. I currently study Applied Physics at the University of Twente, but my interest are in pretty much anything technical. That is also the reason why I semi-active on github. I would like to explore the possibilities that lie within the common ground of electrical engineering, computer science and photonics. So let me know if you know off any project that relate to that and I will definitly be giving a helping hand.
 
 <!--
 **JeroenKlinkhamer/JeroenKlinkhamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
